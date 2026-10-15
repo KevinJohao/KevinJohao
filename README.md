@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Johao Lema</h1>
+<h1 align="center">Hi 👋, I'm Kevin Johao</h1>
 <h3 align="center">A passionate backend developer from Ecuador</h3>
 
 - 🔭 I’m currently working on **a CNN with Xception architecture.**
